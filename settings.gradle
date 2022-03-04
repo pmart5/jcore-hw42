@@ -1,0 +1,5 @@
+rootProject.name = 'jcorehw42'
+include 'db'
+include 'api'
+include 'service'
+
